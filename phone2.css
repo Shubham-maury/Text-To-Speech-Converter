@@ -1,0 +1,21 @@
+.hero h1 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: -50px;
+    margin-bottom: 50px;
+}
+textarea {
+    width: 220px;
+    height: 231px;
+}
+.row {
+    width: 220px;
+    display: flex;
+    flex-direction: column;
+    /* height: 102px; */
+}
+
+button { 
+    font-size: 20px;
+    padding: 10px 15px; 
+}
